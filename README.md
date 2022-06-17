@@ -1,7 +1,7 @@
 # bootsrap-website
-##This is a simple website created using Bootsrap, CSS and Javascript
+## This is a simple website created using Bootsrap, CSS and Javascript
 
-**Code for the navigation bar**
+### Code for the navigation bar
 ![nav](https://user-images.githubusercontent.com/93277164/174401685-0269b5cd-7482-4735-974b-7ff66b17cbae.PNG)
 
 **Code for accordition**
