@@ -1,0 +1,11 @@
+body::before{    /* when you scroll up and down, the image doesnt get shadowed with the navigation bar*/
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+@media(min-width: 768px){
+    .news-input {
+        width: 50%;
+    }
+}
